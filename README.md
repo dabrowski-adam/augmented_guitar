@@ -1,5 +1,5 @@
 # augmented guitar
-Um aplicativo de RA que possibilita "enxergar" as notas musicais de um violão tocando em tempo-real.
+An Augmented Guitar application that allows us to "see" musical notes and chords being played by an acoustic guitar in real-time.
 
 - Identificação do formato do violão para o desenho das animações das notas musicais
 - Biblioteca identificadora de notas musicais
