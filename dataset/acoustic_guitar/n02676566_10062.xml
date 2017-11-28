@@ -1,7 +1,7 @@
 <annotation>
-	<folder>projeto_rv</folder>
+	<folder>acoustic_guitar</folder>
 	<filename>n02676566_10062.JPEG</filename>
-	<path>/home/ziggy/Documents/tensorflow/projeto_rv/n02676566_10062.JPEG</path>
+	<path>/home/hugo/Documents/Mestrado/2º Semestre/Realidade Virtual/projeto/augmented_guitar/dataset/acoustic_guitar/n02676566_10062.JPEG</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>acoustic guitar</name>
+		<name>guitar</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
