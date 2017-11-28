@@ -1,0 +1,26 @@
+<annotation>
+	<folder>projeto_rv</folder>
+	<filename>n02676566_1046.JPEG</filename>
+	<path>/home/ziggy/Documents/tensorflow/projeto_rv/n02676566_1046.JPEG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>150</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>acoustic guitar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>14</ymin>
+			<xmax>138</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+</annotation>
