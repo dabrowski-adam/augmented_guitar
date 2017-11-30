@@ -23,4 +23,16 @@
 			<ymax>263</ymax>
 		</bndbox>
 	</object>
+	<object>
+		<name>guitar</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>434</xmin>
+			<ymin>203</ymin>
+			<xmax>500</xmax>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
 </annotation>

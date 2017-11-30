@@ -71,4 +71,16 @@
 			<ymax>131</ymax>
 		</bndbox>
 	</object>
+	<object>
+		<name>guitar</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>419</xmin>
+			<ymin>3</ymin>
+			<xmax>500</xmax>
+			<ymax>260</ymax>
+		</bndbox>
+	</object>
 </annotation>
