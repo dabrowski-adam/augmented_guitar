@@ -1,0 +1,26 @@
+<annotation>
+	<folder>acoustic_guitar</folder>
+	<filename>n02676566_2307.JPEG</filename>
+	<path>/home/ziggy/Documents/ufpa/Mestrado/2º Semestre/Realidade Virtual/projeto/augmented_guitar/dataset/acoustic_guitar/n02676566_2307.JPEG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>402</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>guitar</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>1</ymin>
+			<xmax>366</xmax>
+			<ymax>554</ymax>
+		</bndbox>
+	</object>
+</annotation>
